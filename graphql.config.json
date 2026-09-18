@@ -1,0 +1,4 @@
+{
+  "schema": "https://psychic-space-potato-697q5j5497v9c5x4j-3000.app.github.dev/graphql",
+  "documents": "src/api/graphql/**/*.{js,jsx}"
+}
